@@ -1,0 +1,6 @@
+{
+  "name": "Psychology Degree Self-Study Curriculum",
+  "description": "An interactive four-year honours-level Psychology self-study platform, course catalog, reading tracker, and academic dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
